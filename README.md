@@ -61,6 +61,7 @@
             print("Sorted Data:", sorted_data)
         else:
             bubble_sort_parallel(data)
+![image](screenshoot/1.png)
 
 ### Numerik
         from mpi4py import MPI
