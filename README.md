@@ -98,3 +98,4 @@
             main()
         end = time.time()
         print("waktu dikerjakan", end-start)
+![image](screenshoot/2.png)
